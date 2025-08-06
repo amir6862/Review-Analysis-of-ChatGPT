@@ -1,1 +1,2 @@
 # Review-Analysis-of-ChatGPT
+Analyzing reviews is one of the best data-driven strategies to improve your product or services. It helps in understanding what people think about your product, what they don’t like about it, and what more they expect from it. So, if you want to understand how to analyze reviews to understand what people think about your product, this article is for you. In this article, I’ll take you through the task of ChatGPT reviews analysis with Python, which will help us understand how to analyze reviews to understand what people think about ChatGPT.
